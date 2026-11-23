@@ -7,7 +7,7 @@ Quick Start
 
 ## Compatibility
 
-| Plugin Version | ANISDK Version | Gateway Version |
+| Plugin Version | ANI SDK Version | Gateway Version |
 | --- | --- | --- |
 | 0.1.x | 0.2.x | 0.2.x |
 
