@@ -17,7 +17,7 @@ Quick Start
 
 ## Installation
 
-1. Unpack plugin to an absolute path, e.g. `/opt/dsh-plugins/ani-client-agent` (read+exec for DSH)
+1. Download the plugin file ( *.tar.gz) from Releases and unpack plugin to an absolute path, e.g. `/opt/dsh-plugins/ani-client-agent` (read+exec for DSH)
 2. DSH Web: `Settings → Plugins → Add Plugin`, input the path and install
 3. Refresh page; confirm `@local/ani-client-agent` is enabled> 
 > Optional: Agent-assisted install or CLI install (still requires web activation)
