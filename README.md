@@ -4,14 +4,6 @@ Quick Start
 
 > 
 > ANI client agent plugin for DeepSeek Harness (DSH). Discover and call remote Agents via gateway. **Client-only; no inbound requests.**
-
-## Compatibility
-
-| Plugin Version | ANI SDK Version | Gateway Version |
-| --- | --- | --- |
-| 0.1.x | 0.2.x | 0.2.x |
-
-> 
 > Minimum DSH requirement: `DSH ≥0.2.2-rc.1`
 > Platform: Linux x86_64, glibc ≥2.38, pnpm ≥12
 
